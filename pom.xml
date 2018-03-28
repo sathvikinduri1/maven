@@ -21,14 +21,14 @@
 		<repository>
 			<id>mavenrelease</id>
 			<name>mavenrelease</name>
-			<url>http://ec2-54-174-251-189.compute-1.amazonaws.com:8081/repository/mavenrelease/</url>
+			<url>http://54.157.41.185:8081/repository/mavenrelease/</url>
 		</repository>
 
 		<!-- Publish snapshots here -->
 		<snapshotRepository>
 			<id>mavensnapshot</id>
 			<name>mavensnapshot</name>
-			<url>http://ec2-54-174-251-189.compute-1.amazonaws.com:8081/repository/mavensnapshot/</url>
+			<url>http://54.157.41.185:8081/repository/mavensnapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 

@@ -10,9 +10,9 @@
 	<name>git-release-example Maven Webapp</name>
 
 	<scm>
-		<connection>git@github.com:sathvikinduri1/maven.git</connection>
-		<developerConnection>git@github.com:sathvikinduri1/maven.git</developerConnection>
-		<url>git@github.com:sathvikinduri1/maven.git</url>
+		<connection>scm:git:git@github.com:sathvikinduri1/maven.git</connection>
+		<developerConnection>scm:git:git@github.com:sathvikinduri1/maven.git</developerConnection>
+		<url>scm:git:git@github.com:sathvikinduri1/maven.git</url>
 	  <tag>HEAD</tag>
   </scm>
 
